@@ -1,0 +1,5 @@
+for uboot:
+	make forlinx_nand_ram256_config
+	make
+for linux:
+	make zImage
